@@ -1,1 +1,4 @@
-# LED main.py and boot.py files for Lauri Võsandi by Kaur Meressaar
+# LED
+# Great Kaur's work
+# Great Anastasia's changes
+
